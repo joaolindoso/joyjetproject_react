@@ -1,5 +1,10 @@
 # Projeto em ReactJS para Joyjet
 
+Proposta do layout: https://www.figma.com/file/AexkredNA1q64Zcp4V4uyn/joyjet-recruitment-web?node-id=0%3A1
+
+Endereço do projeto em Wordpress: https://todayhost.com.br/site/joyjetproject/
+
+Layout desenvolvido em HTML, CSS, JS, Bootstrap 4.6
 
 
 # Getting Started with Create React App
